@@ -12,6 +12,8 @@ The joke: Jason and Lucia have been sitting on the hood of their car in Vice Cit
 
 See [POST.json](POST.json) for the post's address on X.
 
+The meme is live on X: https://x.com/Rian86671574/status/2123491760961933598 — posted 2026-11-19 from [@Rian86671574](https://x.com/Rian86671574) with the make.fun ghost in the picture and make.fun, @makefunai and the play code `makefun-emu-bistro-camel` in its text.
+
 ## Run it
 
 ```sh
